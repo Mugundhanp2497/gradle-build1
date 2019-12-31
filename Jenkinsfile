@@ -14,7 +14,7 @@ node {
 
     stage('Clone sources') {
 
-        git url: 'https://github.com/jfrogdev/project-examples.git'
+        git url: 'https://github.com/Mugundhanp2497/gradle-build1.git'
 
     }
 
